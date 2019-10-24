@@ -1,0 +1,4 @@
+Bundle-Name: todo-angular-service
+Bundle-SymbolicName: es.vass.formattion.angular.service
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration

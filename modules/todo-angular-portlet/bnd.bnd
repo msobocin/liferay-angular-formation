@@ -1,0 +1,5 @@
+Bundle-Name: todo-angular-portlet
+Bundle-SymbolicName: es.vass.formation.angular
+Bundle-Version: 1.0.0
+Export-Package: es.vass.formation.angular.constants
+Web-ContextPath: /todo-angular-portlet
